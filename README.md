@@ -17,16 +17,8 @@ qanda
 ***
 * Rails 5.2.6  
 * jquery  
-* rspec-rails  
-* factory_bot_rails  
-* mechanize
+* bootstrap  
 
 **機能一覧**  
 ***
-* ユーザー登録  
-* スクレイピング（mechanize）  
-
-**テスト**  
-***
-*  RSpec  
-*  単体テスト  
+* ユーザー登録   
