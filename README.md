@@ -15,7 +15,7 @@ qanda
 
 **使用技術**
 ***
-* Rails 5.2.6  
+* Rails 5.2.4  
 * jquery  
 * bootstrap  
 
